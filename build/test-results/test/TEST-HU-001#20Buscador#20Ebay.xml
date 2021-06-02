@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HU-001 Buscador Ebay" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-02T16:39:50" hostname="LAPTOP-AQ53B80U" time="201.568">
+  <properties/>
+  <testcase name="Buscar palabra en el buscador de OLX exitoso" classname="HU-001 Buscador Ebay" time="201.568"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 25128
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 02, 2021 11:39:54 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
