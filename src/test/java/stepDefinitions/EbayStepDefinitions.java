@@ -27,7 +27,6 @@ public class EbayStepDefinitions {
             e.printStackTrace();
         }
 
-
     }
 
     @Then("^podre ver el producto en pantalla$")
@@ -35,6 +34,5 @@ public class EbayStepDefinitions {
         SeleniumWebDriver.driver.quit();
 
     }
-
 
 }

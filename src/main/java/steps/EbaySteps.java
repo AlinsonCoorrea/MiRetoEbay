@@ -59,19 +59,8 @@ public class EbaySteps {
             validarTexto = true;
         }
         assertEquals(true, validarTexto);
-    }/*
-    public void buscarProductoEnEbay(String txt){
+    }
 
-        escribirEnTexto(EbayPage.getTxtBuscadorArticulos(),txt);
-        try {
-            Thread.sleep(2000);
-            clicEnElemento(EbayPage.getBtnBuscadorArticulos());
-            Thread.sleep(2000);
-            clicEnElemento(EbayPage.getSpanResultado());
-        } catch (Exception e) {
-
-            e.printStackTrace();
-        }*/
     public void buscarProductoEnEbay() {
         try {
             lecturaExcel = Excel.readExcel("C:\\Users\\57321\\Desktop\\productos.xlsx", "Hoja1");
